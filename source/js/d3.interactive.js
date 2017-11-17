@@ -27,6 +27,8 @@ interactive.addForceLayout = function(linksData, figuresData, links, circles) {
         .start();
     }
 
+    var lineFunction = d3.svg.line().interpolate("line");
+
     circles.call(force.drag).on('mouseenter', showName).on('mouseleave', hideName);
     var inner_links = links.selectAll(".link-inner");
     var outer_links = d3.selectAll(".link-outer");
@@ -42,8 +44,12 @@ interactive.addForceLayout = function(linksData, figuresData, links, circles) {
           .attr("y1", function(d) { return d.source.y; })
           .attr("x2", function(d) { return d.target.x; })
           .attr("y2", function(d) { return d.target.y; });
-        inner_links.attr("d", d3.svg.diagonal());
-        outer_links.attr("d", d3.svg.diagonal());
+        inner_links.attr("d", function(d) {
+            return lineFunction([[d.source.x, d.source.y], [d.target.x, d.target.y]]);
+        });
+        outer_links.attr("d", function(d) {
+            return lineFunction([[d.source.x, d.source.y], [d.target.x, d.target.y]]);
+        });
         link_circles
           .attr("cx", function(d){
             var path = d3.select(this.parentNode).select('.link-inner').node();

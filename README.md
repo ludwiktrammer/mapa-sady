@@ -1,6 +1,6 @@
 # O projekcie
 
-http://miastojestnasze.org/warszawska-mapa-reprywatyzacji/
+Lobby Proreprywatyzacyjne w Wymiarze Sprawiedliwości - mapa.
 
 # Technologie
 
@@ -31,7 +31,7 @@ Odpal projekt lokalnie przy pomocy:
 npm run dev
 ```
 
-Skopiuje to pliki statyczne do folderu `dist`, przekonwertuje pliki LESS do CSS, skompiluje Javascript wraz z source-mapami przy pomocy browserify i uruchomi lokalny serwer http. 
+Skopiuje to pliki statyczne do folderu `dist`, przekonwertuje pliki LESS do CSS, skompiluje Javascript wraz z source-mapami przy pomocy browserify i uruchomi lokalny serwer http.
 
 Projekt jest dostępny w przeglądarce pod adresem http://localhost:8000. Dzięki mechanizmowi watch'y oraz live-reload strona projekt jest automatycznie przebudowywany po zmianach, a strona automatycznie przeładowywana.
 
@@ -50,4 +50,5 @@ npm run deploy
 
 # Licencja
 
-[Creative Commons Attribution-NonCommercial-ShareAlike](LICENSE)
+Oprogramowanie wydane jest na licencji [Creative Commons Attribution-NonCommercial-ShareAlike](LICENSE).
+Oparte jest na (wydanym na tej samej licencji) [oprogramowaniu Warszawskiej Mapy Reprywatyzacji](https://github.com/miastojestnasze/warszawska-mapa-reprywatyzacji) (2015-2016; Miasto Jest Nasze, Łukasz Fiszer, Ludwik Trammer).

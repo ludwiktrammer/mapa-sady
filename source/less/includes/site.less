@@ -87,26 +87,39 @@ textarea {
    ========================================================================== */
 
 /* Variables */
-@background-color: rgb(160, 0, 10);
-@primary-color: rgb(255, 192, 63);
-@highlight-color: rgb(255, 255, 255);
+@background-color: rgb(242, 197, 84);
+@primary-color: rgb(181, 55, 59);
+@highlight-color: rgb(0, 0, 0);
 
 @interface-font: 'Baloo', sans-serif;
 
 body {
   font-family: Corbel, "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", "Bitstream Vera Sans", "Liberation Sans", Verdana, "Verdana Ref", sans-serif;
-  background-color: #333;
-  min-width: 1200px;
+  background-color: @background-color;
+}
+
+h1 {
+    color: @primary-color;
+    text-align: center;
+}
+
+.description {
+    color: @primary-color;
+    text-align: center;
+    margin-top: -10px;
+    margin-bottom: 10px;
+    font-style: italic;
 }
 
 body.interactive {
-  width: 1200px;
+  width: 700px;
   margin: 0 auto;
 
   .interactive-output {
     position: absolute;
-    color: #ccc;
+    color: white;
     padding-top: 15px;
+    background-color: black;
   }
 
   .interactive-name {
@@ -123,9 +136,7 @@ body.interactive {
 }
 
 .content {
-  min-height: 700px;
   background-color: @background-color;
-  background-image: url('../assets/bg.png');
   background-position: center;
   background-repeat: no-repeat;
 }
@@ -155,7 +166,11 @@ body.interactive {
     font-size: 9px;
     padding: 30px 80px;
     line-height: 12px;
-    height: 40px;
+    height: 50px;
+
+    a, a:visited {
+        color: @primary-color;
+    }
 }
 
 a.button:hover {
@@ -179,22 +194,6 @@ a.button:hover {
   left: 40px;
   z-index: 2;
 
-  img {
-    width: 105px;
-    display: block;
-
-    &.miasto {
-      width: 81px;
-      padding: 12px;
-      background-color: white;
-    }
-
-    &.title {
-        height: 182px; // IE 10 compatibility
-        margin-top: -1px; // SVG has a transparent pixle on top...
-    }
-  }
-
   .legend {
       width: 110px;
       font-size: 12px;
@@ -204,48 +203,8 @@ a.button:hover {
   }
 }
 
-.actions {
-  font-family: @interface-font;
-  color: @primary-color;
-  font-size: 20px;
-  text-transform: uppercase;
-  position: absolute;
-  z-index: 2;
-  top: 20px;
-  right: 25px;
-  width: 185px;
-  line-height: 25px;
-
-  .social {
-    margin-bottom: 20px;
-
-    a {
-      display: inline-block;;
-      background-color: @primary-color;
-      border-radius: 10px;
-      margin-right: 5px;
-
-      &:hover {
-        background-color: @highlight-color;
-      }
-  }
-
-    img {
-      width: 35px;
-    }
-  }
-}
-
 .map {
     position: relative;
-}
-
-.articles {
-  position: absolute;
-  z-index: 2;
-  bottom: 0;
-  right: 25px;
-  width: 200px;
 }
 
 .loader {
@@ -311,8 +270,6 @@ a.button:hover {
 
 .g-figures .figure-circle-inner {
   fill: @primary-color;
-  stoke-width: 1px;
-  stroke: black;
 }
 
 .g-figures g:hover .figure-circle-inner,
@@ -353,19 +310,13 @@ a.button:hover {
 
 .d3-tip {
   padding: 12px;
-  background: rgba(255, 255, 255, 0.90);
+  background: rgba(255, 255, 255, 0.95);
   color: #000;
-  border-radius: 6px;
   pointer-events: none;
   font-size: 13px;
   width: 25%;
   min-width: 250px;
   min-width: 400px;
-  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.90);
-  -webkit-box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.90);
-  -moz-box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.90);
-  -ms-box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.90);
-  -o-box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.90);
   z-index: 10;
 
   .tip-content {
@@ -383,7 +334,7 @@ a.button:hover {
      /* Non standard for webkit */
      word-break: break-word;
 
--webkit-hyphens: auto;
+   -webkit-hyphens: auto;
    -moz-hyphens: auto;
         hyphens: auto;
 
@@ -395,7 +346,7 @@ a.button:hover {
   font-size: 10px;
   width: 100%;
   line-height: 1;
-  color: rgba(255, 255, 255, 0.90);
+  color: rgba(255, 255, 255, 0.95);
   position: absolute;
   pointer-events: none;
 }

@@ -8,9 +8,9 @@ function get_direction(d) {
       y = (d.source.y + d.target.y)/2;
     }
     if(d.name == "Grzegorz Majewski") return 'e';
+    if(x > 500 && y < 600) return 'w';
     if(x > 200 && y < 250) return 's';
     if(x < 300 && y < 500) return 'e';
-    if(x > 900 && y < 500) return 'w';
     return 'n';
 }
 
