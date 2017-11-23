@@ -1,19 +1,19 @@
 A,B,Tytuł,Opis,Linki
-Maria Rzążewska,Edward Janeczko,"Konferencja z dnia 17 stycznia 1997 r., uchwała NSA, sygn. akt OPS 3/03","Odbyła się z udziałem członków Samorządowego Kolegium Odwoławczego w Warszawie, sędziów Naczelnego Sądu Administracyjnego oraz urzędników Ratusza pod rządami Macieja Święcickiego. Nieformalne spotkanie proreprywatyzacyjnego lobby. Wyrażone zostają poglądy radykalnie sprzeczne z dotychczasową wykładnią przepisów dekretu Bieruta. M.in.:",http://orzeczenia.nsa.gov.pl/doc/77E195379E
-Maria Rzążewska,Włodzimierz Ryms,"uchwała NSA, sygn. akt OPS 3/03",,http://orzeczenia.nsa.gov.pl/doc/77E195379E
-Maria Rzążewska,Eugeniusz Mzyk,"Konferencja z dnia 17 stycznia 1997 r., uchwała NSA, sygn. akt OPS 3/03",,http://orzeczenia.nsa.gov.pl/doc/77E195379E
-Maria Rzążewska,Leszek Jerzy Kamiński,Konferencja z dnia 17 stycznia 1997 r.,,http://orzeczenia.nsa.gov.pl/doc/77E195379E
+Maria Rzążewska,Edward Janeczko,"Konferencja z dnia 17 stycznia 1997 r., uchwała NSA, sygn. akt OPS 3/03","Odbyła się z udziałem członków Samorządowego Kolegium Odwoławczego w Warszawie, sędziów Naczelnego Sądu Administracyjnego oraz urzędników Ratusza pod rządami Macieja Święcickiego. Nieformalne spotkanie proreprywatyzacyjnego lobby. Wyrażone zostają poglądy radykalnie sprzeczne z dotychczasową wykładnią przepisów dekretu Bieruta. M.in.:","http://orzeczenia.nsa.gov.pl/doc/77E195379E, link po protokołu z konferencji"
+Maria Rzążewska,Włodzimierz Ryms,"uchwała NSA, sygn. akt OPS 3/03; uchwała NSA, sygn. akt I OPS 5/08",,"http://orzeczenia.nsa.gov.pl/doc/77E195379E, http://orzeczenia.nsa.gov.pl/doc/3CC2C392DE"
+Maria Rzążewska,Eugeniusz Mzyk,"Konferencja z dnia 17 stycznia 1997 r.; uchwała NSA, sygn. akt OPS 3/03",,"http://orzeczenia.nsa.gov.pl/doc/77E195379E, link po protokołu z konferencji"
+Maria Rzążewska,Leszek Jerzy Kamiński,Konferencja z dnia 17 stycznia 1997 r.,,link po protokołu z konferencji
 Edward Janeczko,Włodzimierz Ryms,"uchwała NSA, sygn. akt OPS 3/03","- przepisy Uchwały nr 11 z dnia 27.01.1965 r., nie mają żadnego znaczenia",http://orzeczenia.nsa.gov.pl/doc/77E195379E
-Edward Janeczko,Eugeniusz Mzyk,"Konferencja z dnia 17 stycznia 1997 r., uchwała NSA, sygn. akt OPS 3/03",,
-Edward Janeczko,Leszek Jerzy Kamiński,Konferencja z dnia 17 stycznia 1997 r.,,
-Włodzimierz Ryms,Eugeniusz Mzyk,"uchwała NSA, sygn. akt OPS 3/03",,
+Edward Janeczko,Eugeniusz Mzyk,"Konferencja z dnia 17 stycznia 1997 r.; uchwała NSA, sygn. akt OPS 3/03",,"http://orzeczenia.nsa.gov.pl/doc/77E195379E, link po protokołu z konferencji"
+Edward Janeczko,Leszek Jerzy Kamiński,Konferencja z dnia 17 stycznia 1997 r.,,link po protokołu z konferencji
+Włodzimierz Ryms,Eugeniusz Mzyk,"uchwała NSA, sygn. akt OPS 3/03",,http://orzeczenia.nsa.gov.pl/doc/77E195379E
 Daniela Kozłowska,Eugeniusz Mzyk,"Grunty warszawskie: w świetle orzecznictwa Trybunału Konstytucyjnego, Sądu Najwyższego i Naczelnego Sądu Administracyjnego",,
-Daniela Kozłowska,Irena Kamińska,"wyrok WSA w Warszawie, sygn. akt I SA/Wa 1146/05, wyrok NSA, sygn. akt I OSK 1110/06 ",,
+Daniela Kozłowska,Irena Kamińska,"wyrok WSA w Warszawie, sygn. akt I SA/Wa 1146/05; wyrok NSA, sygn. akt I OSK 1110/06 ",,
 Daniela Kozłowska,prof. dr hab. Maciej Kaliński,"glosa do wyroku WSA w Warszawie, sygn. akt I SA/Wa 1146/05",,
 Daniela Kozłowska,Mirosław Gdesz,"wyrok WSA w Warszawie, sygn. akt I SA/Wa 1146/05",Teza (fałszywa): przeslanka posiadania gruntu odnosi się tylko do „następców prawnych” właściciela,"http://orzeczenia.nsa.gov.pl/doc/3DF0B7F180, http://orzeczenia.nsa.gov.pl/doc/BF7096FA0B"
-Eugeniusz Mzyk,Leszek Jerzy Kamiński,Konferencja z dnia 17 stycznia 1997 r.,,
+Eugeniusz Mzyk,Leszek Jerzy Kamiński,Konferencja z dnia 17 stycznia 1997 r.,,link po protokołu z konferencji
 Leszek Jerzy Kamiński,Irena Kamińska,małżeństwo,,
-Irena Kamińska,Mirosław Gdesz,"wyrok WSA w Warszawie, sygn. akt I SA/Wa 1146/05, wyrok NSA, sygn. akt I OSK 1110/06",,"http://orzeczenia.nsa.gov.pl/doc/3DF0B7F180, http://orzeczenia.nsa.gov.pl/doc/BF7096FA0B"
+Irena Kamińska,Mirosław Gdesz,"wyrok WSA w Warszawie, sygn. akt I SA/Wa 1146/05; wyrok NSA, sygn. akt I OSK 1110/06",,"http://orzeczenia.nsa.gov.pl/doc/3DF0B7F180, http://orzeczenia.nsa.gov.pl/doc/BF7096FA0B"
 prof. dr hab. Maciej Kaliński,Mirosław Gdesz,"glosa do wyroku WSA w Warszawie, sygn. akt I SA/Wa 1146/05",,
 Paweł Piskorski,Andrzej M.,"Flory 3, decyzja z dnia 21 lutego 2000 r. nr GN/NW/7261/30/94/AC","Decyzja wydana w oparciu o prywatny pogląd wyrażony na nieformalnym spotkaniu przez proreprywatyzacyjne lobby. Organ całkowicie ignoruje obowiązującą wówczas linię orzeczniczą NSA (por. I SA 1036/99, I SA 179/01)","http://orzeczenia.nsa.gov.pl/doc/1A193B6F02, http://orzeczenia.nsa.gov.pl/doc/FDBC8299B3"
 Paweł Piskorski,Leszek Jerzy Kamiński,"Flory 3, decyzja z dnia 21 lutego 2000 r. nr GN/NW/7261/30/94/AC",,
@@ -21,3 +21,50 @@ Grzegorz M.,prof. dr hab. Maciej Kaliński,Opinia prawna z 2011 roku w sprawie r
 Paweł Piskorski,Eugeniusz Mzyk,"Flory 3, decyzja z dnia 21 lutego 2000 r. nr GN/NW/7261/30/94/AC",,
 Paweł Piskorski,Maria Rzążewska,"Flory 3, decyzja z dnia 21 lutego 2000 r. nr GN/NW/7261/30/94/AC",,
 Paweł Piskorski,Edward Janeczko,"Flory 3, decyzja z dnia 21 lutego 2000 r. nr GN/NW/7261/30/94/AC",,
+Henryk Bęben,Eugeniusz Mzyk,Konferencja z dnia 17 stycznia 1997 r.,,link po protokołu z konferencji
+Henryk Bęben,Edward Janeczko,Konferencja z dnia 17 stycznia 1997 r.,,link po protokołu z konferencji
+Henryk Bęben,Maria Rzążewska,Konferencja z dnia 17 stycznia 1997 r.,,link po protokołu z konferencji
+Henryk Bęben,Leszek Jerzy Kamiński,Konferencja z dnia 17 stycznia 1997 r.,,link po protokołu z konferencji
+Henryk Bęben,Marcin Święcicki,,Henryk Bęben był zastępcą Marcina Święcickiego w ramach koalicji samorządowej Sojusz Lewicy Demokratycznej-Unia Wolności i Samorządności. Został też przez Marcina Święcickiego wyznaczony do udziału w Konferencji z dnia 17 stycznia 1997 r.,
+Jakub R.,prof. dr hab. Maciej Kaliński,,To BGN pod rządami Marcina Bajki i Jakuba R. zlecało Maciejowi Kalińskiemu sporządznie opinii prawnych,
+Jakub R.,Hanna Gronkiewicz-Waltz,,Jakub Rudnicki przez lata jako jedyny posiadał pełnomocnitwo od Hanny Gronkiewicz-Waltz do wydawania decyzji „zwrotowych”. Pod okiem Hanny Gronkiewicz-Waltz oddał sam sobie kamienicę przy ul. Kazimierzowskiej 43. Prezydent Warszawy była o tym fakcie informowana. ,
+Hanna Gronkiewicz-Waltz,Elżbieta Buczek,,"Prezydent. m. st. Warszawy umocował adw. Elżbietę Buczek do przepychanek z Komisją Weryfikacyjną. Oprócz Elżbiety Buczek, Hanna Gronkiewicz-Waltz udzieliła również pełnomocnictwa do reprezentowania Miasta na rozprawach Komisji innego pracownika kancelarii Pociej, Dubois, Kosińska-Kozak, adw. Zofię Gajewską",
+Elżbieta Buczek,Agata Plichta,,"Pracują w jednej kancelarii (Pociej, Dubois, Kosińska-Kozak) w dziale prawa administracyjnego, zajmującym się m. in. reprezentowaniem osób posiadających roszczenia do warszawskich gruntów. ",
+Agata Plichta,Piotr Wocial,,"Agata Plichta zanim dołączyła do kancelarii Pociej, Dubois, Kosińska-Kozak była pracownicą kancelarii radcowskiej Piota Wociala. Reprezentowała m. in. spółkę Prometeusz oraz firmę Gerenta zarządzającej nieruchomością Jagiellońska 27. W kamienicy tej uporczywie nękano lokatorów oraz została ona podpalona przez nieznanych sprawców. ",
+Jakub R.,Jerzy Sulimierski,"Wyrok NSA z dnia 16 kwietnia 2002 r., sygn. akt I SA 2471/00",,http://orzeczenia.nsa.gov.pl/doc/EBBE53897B
+Jakub R.,Irena Kamińska,"Wyrok NSA z dnia 18 kwietnia 2002 r., sygn. akt I SA 2191/01",,http://orzeczenia.nsa.gov.pl/doc/816D16BD90
+Jerzy Sulimierski,Maria Rzążewska,"uchwała NSA, sygn. akt OPS 3/03",,http://orzeczenia.nsa.gov.pl/doc/77E195379E
+Jerzy Sulimierski,Eugeniusz Mzyk,"uchwała NSA, sygn. akt OPS 3/03",,http://orzeczenia.nsa.gov.pl/doc/77E195379E
+Jerzy Sulimierski,Włodzimierz Ryms,"uchwała NSA, sygn. akt OPS 3/03",,http://orzeczenia.nsa.gov.pl/doc/77E195379E
+Jerzy Sulimierski,Edward Janeczko,"uchwała NSA, sygn. akt OPS 3/03",,http://orzeczenia.nsa.gov.pl/doc/77E195379E
+Jerzy Sulimierski,Roman Hauser,"uchwała NSA, sygn. akt OPS 3/03",,http://orzeczenia.nsa.gov.pl/doc/77E195379E
+Jerzy Sulimierski,Irena Kamińska,pojęcie „nieskutecznego objęcia gruntu w posiadanie”,,
+Roman Hauser,Edward Janeczko,"uchwała NSA, sygn. akt OPS 3/03",,http://orzeczenia.nsa.gov.pl/doc/77E195379E
+Roman Hauser,Eugeniusz Mzyk,"uchwała NSA, sygn. akt OPS 3/03",,http://orzeczenia.nsa.gov.pl/doc/77E195379E
+Roman Hauser,Włodzimierz Ryms,"uchwała NSA, sygn. akt OPS 3/03, uchwała NSA sygn. akt I OPS 5/08",,"http://orzeczenia.nsa.gov.pl/doc/77E195379E, http://orzeczenia.nsa.gov.pl/doc/3CC2C392DE"
+Roman Hauser,Maria Rzążewska,"uchwała NSA, sygn. akt OPS 3/03, uchwała NSA sygn. akt I OPS 5/08",,"http://orzeczenia.nsa.gov.pl/doc/77E195379E, http://orzeczenia.nsa.gov.pl/doc/3CC2C392DE"
+Jan Stachura,Jakub R.,,"Konopnickiej 3. Decyzja Prezydenta m. st. Warszawy nr 365/GK/DW/2011 oparta na wyroku NSA, sygn. akt I SA 546/03 dowodzącym rzekomego „nieskutecznego objęcia gruntu w posiadanie”",
+Jakub R.,Marian Robełek,,"Mokotowska 40. Decyzja Prezydenta m. st. Warszawy nr **/GK/DW/20**, oparta na pojęciu „nieskutecznego objęcia gruntu w posiadanie”",
+Jakub R.,Mirosław Bieniek,,"Mokotowska 40. Decyzja Prezydenta m. st. Warszawy nr **/GK/DW/20**, oparta na pojęciu „nieskutecznego objęcia gruntu w posiadanie”",
+Marian Robełek,Mirosław Bieniek,,"Partnerzy biznesowi. Mokotowska 40, Puławska 1a, Emilii Plater14, Emilii Plater 12, Emilii Plater 15, Noakowskiego 20",
+Robert N.,Marian Robełek,,"Robert N. jest jednym z ulubionych profesjonalnych pełnomocników Mariana Robełka. Przygotowuje m. in. treść „porozumienia” zawartego przed notariuszem Pawłem Andrzejem Kanią pomiędzy Marianem Robełkiem i Mirosławem Bieńkiem a członkami Wspólnoty Mieszkaniowej Mokotowska 40, na mocy którego to porozumienia mieszkańcy Mokotowskiej 40 z „niewiadomych” przyczyn - pomimo wiedzy, iż decyzja zwrotowa została wydana z naruszeniem prawa - zobowiązują się nie dążyć do jej uchylenia. ",
+Robert N.,Mirosław Bieniek,,"Robert N. jest jednym z ulubionych profesjonalnych pełnomocników Mirosława Bieńka. Przygotowuje m. in. treść „porozumienia” zawartego przed notariuszem Pawłem Andrzejem Kanią pomiędzy Marianem Robełkiem i Mirosławem Bieńkiem a członkami Wspólnoty Mieszkaniowej Mokotowska 40, na mocy którego to porozumienia mieszkańcy Mokotowskiej 40 z „niewiadomych” przyczyn - pomimo wiedzy, iż decyzja zwrotowa została wydana z naruszeniem prawa - zobowiązują się nie dążyć do jej uchylenia. ",
+Paweł Andrzej Kania,Robert N.,,Obok Piotra Sicińskiego jest ulubionym notariuszem Roberta N. Sporządzał m. in. umowy ustanowienia odrębnej własności lokali należących do Roberta N. i Janusza P. przy al. Róż 10,
+Paweł Andrzej Kania,Marian Robełek,,"Przed notariuszem Pawłem Andrzejem Kanią zawarte zostaje „porozumienie” pomiędzy Marianem Robełkiem i Mirosławem Bieńkiem a członkami Wspólnoty Mieszkaniowej Mokotowska 40, na mocy którego to porozumienia mieszkańcy Mokotowskiej 40 z „niewiadomych” przyczyn - pomimo wiedzy, iż decyzja zwrotowa została wydana z naruszeniem prawa - zobowiązują się nie dążyć do jej uchylenia. ",
+Paweł Andrzej Kania,Mirosław Bieniek,,"Przed notariuszem Pawłem Andrzejem Kanią zawarte zostaje „porozumienie” pomiędzy Marianem Robełkiem i Mirosławem Bieńkiem a członkami Wspólnoty Mieszkaniowej Mokotowska 40, na mocy którego to porozumienia mieszkańcy Mokotowskiej 40 z „niewiadomych” przyczyn - pomimo wiedzy, iż decyzja zwrotowa została wydana z naruszeniem prawa - zobowiązują się nie dążyć do jej uchylenia. ",
+Piotr Baczkowski ps. „Łapa”,Andrzej M.,Flory 3,Właścicielem zwróconej z rażącym naruszeniem prawa nieruchomości przy ul. Flory 3. staje się spółka Triforium związana z „Łapą”,
+Magdalena Walter-Król,Eugeniusz Mzyk,Europejska Wyższa Szkoła Prawa i Administracji w Warszawie,Nieformalnym promotorem pracy magisterskiej Małgorzaty Walter-Król był sędzia NSA Eugeniusz Mzyk,
+Magdalena Walter-Król,Jan Stachura,"Stachura, Urbańska, Wasyluk Kancelaria Adwokacka s.j.","Magdalena Walter-Król, po wcześniejszym zdobyciu doświadczenia w Biurze Orzecznictwa NSA oraz w Departamencie Orzecznictwa Ministrestwa Infrastruktury (orzekającym w sprawach o stwierdzenie nieważności dawnych decyzji komunalizacyjnych) od 2009 r. pracuje dla Jana Stachury.",
+Marcin Karczewski,Eugeniusz Mzyk,Europejska Wyższa Szkoła Prawa i Administracji w Warszawie,"Europejska Szkoła prawa i Administracji w Warszawie powstała na podstawie Decyzji Ministra Edukacji Narodowej Jerzego Wiatra z dnia 19 września 1997 r.. Jerzy Wiatr staje się później Rektorem tej uczelni. Szkoła mieści się w budynkach przy ul. Grodzieńskiej 21/29 w Warszawie, w których niegdyś mieściła się fabryka odzieżowa Leda. Upadłość tejże firmy ogłosił sędzia wydziału upadłościowego Sądu Rejonowego dla m. st. Warszawy Dariusz Czajka, prawomocnie skazany za kumoterstwo. Obecnie Rektorem uczelni jest dr Dariusz Czajka. ",https://www.linkedin.com/in/marcin-karczewski-058960131
+Katarzyna Smolaga,Robert N.,,konkubenci,
+Rafał Sarbiński,Katarzyna Smolaga,Marszałkowska 43,sprawa przed Komisją Weryfikacyjną sygn. akt R 9/17,https://youtu.be/0bzpo0qH5aM?t=7438
+Rafał Sarbiński,Katarzyna Sobczyk-Sarbińska,,Małżeństwo. Prowadza wspólnie kancelarię adwokacko-radcowską,
+Katarzyna Sobczyk-Sarbińska,Katarzyna Smolaga,Marszałkowska 43,sprawa przed Komisją Weryfikacyjną sygn. akt R 9/17,https://youtu.be/0bzpo0qH5aM?t=8109
+Katarzyna Sobczyk-Sarbińska,Eugeniusz Mzyk,,Katarzyna Sobczyk-Sarbińska odbywała praktyki w Biurze Orzecznictwa NSA,
+Katarzyna Sobczyk-Sarbińska,Maria Rzążewska,,Katarzyna Sobczyk-Sarbińska odbywała praktyki w Biurze Orzecznictwa NSA,
+Adam Starczewski,Katarzyna Sobczyk-Sarbińska,,prowadzą kancelarie w tym samym lokalu przy ul. Bukowińskiej 22 w Warszawie,
+Adam Starczewski,Rafał Sarbiński,,prowadzą kancelarie w tym samym lokalu przy ul. Bukowińskiej 22 w Warszawie,
+Adam Starczewski,Marzena K.,Bracka 23,"Adam Starczewski reprezentował Marzenę K. w sprawie o odszkodowanie za Bracką 23, gdy jej brat Robert N. siedział już w areszcie","http://wyborcza.pl/1,75398,20845509,nowy-uklad-warszawski-jak-mecenas-nowaczyk-reprywatyzuje-nieruchomosci.html"
+Adam Starczewski,Hanna Gronkiewicz-Waltz,,Adam Starczewski pełnił obowiązki zastępcy dyrektora Biura Prawnego Urzędu m. st. Warszawy za czasów prezydentury Hanny Gronkiewicz-Waltz,
+Robert N.,Marzena K.,,rodzeństwo,
+Jan Stachura,Piotr Wocial,,Wocial kupił od Stachury kamienicę na Asfaltowej 2. Ceny transakcyjne były kilka razy niższe niż te rynkowe. 90-metrowe mieszkanie na Górnym Mokotowie Stachura sprzedał za jedyne 310 tysięcy złotych.,

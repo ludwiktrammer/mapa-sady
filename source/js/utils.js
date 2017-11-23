@@ -38,7 +38,7 @@ utils.cleanUpSpecialChars = function(str) {
     str = str.replace(/[ż]/g,"z");
     str = str.replace(/[Ź]/g,"z");
     str = str.replace(/[ź]/g,"z");
-    str = str.replace(/[.]/g,"");
+    str = str.replace(/[.„”]/g,"");
     return str;
 };
 
