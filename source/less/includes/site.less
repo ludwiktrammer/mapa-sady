@@ -107,7 +107,6 @@ h1 {
     color: @primary-color;
     text-align: center;
     margin-top: -10px;
-    margin-bottom: 10px;
     font-style: italic;
 }
 
@@ -142,22 +141,26 @@ body.interactive {
 }
 
 .button {
-  background-color: @primary-color;
+  background-color: @background-color;
+  border: 2px solid @primary-color;
   border-radius: ~"20px / 50%"; // ~"" syntax to get around less trying to calculate a value
   line-height: 15px;
-  padding: 6px 30px 4px 15px;
+  padding: 10px 0;
   box-sizing: border-box;
   display: block;
   font-size: 15px;
   font-family: @interface-font;
   text-decoration: none;
-  color: black;
+  color: @primary-color;
   text-transform: uppercase;
-  background-image: url(/assets/arrow.svg);
-  background-size: 40px 40px;
-  background-position: right;
-  background-repeat: no-repeat;
   margin: 10px auto;
+  text-align: center;
+  box-shadow: 0px 0px 10px 5px @background-color;
+}
+
+a.button:hover {
+    border-color: @highlight-color;
+    color: @highlight-color;
 }
 
 .disclaimer {
@@ -171,10 +174,6 @@ body.interactive {
     a, a:visited {
         color: @primary-color;
     }
-}
-
-a.button:hover {
-    background-color: @highlight-color;
 }
 
 .main {
@@ -205,6 +204,37 @@ a.button:hover {
 
 .map {
     position: relative;
+    margin-top: 65px;
+}
+
+.articles {
+    overflow: hidden;
+    max-height: 50px;
+    transition: all 0.8s ease;
+    position: absolute;
+    z-index: 100;
+    margin: 0 auto;
+    left:50%;
+    width: 300px;
+    margin-left:-150px;
+    padding: 0 10px;
+
+    .button-down {
+        background-image: url(/assets/arrow-down.svg);
+        background-size: 40px 40px;
+        background-position: right;
+        background-repeat: no-repeat;
+    }
+
+    &:hover, &.articles-show {
+        max-height: 1000px;
+
+        .button-down {
+            border-color: @highlight-color;
+            color: @highlight-color;
+            background-image: url(/assets/arrow-down-hover.svg);
+        }
+    }
 }
 
 .loader {
