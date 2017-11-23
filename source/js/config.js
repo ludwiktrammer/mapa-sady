@@ -2,6 +2,7 @@ module.exports = {
   width: 1000,
   height: 700,
   autodistribution: false, // for interactive
+  googleAnalyticsID: undefined,
 
   sizes: {
       'small': 70,

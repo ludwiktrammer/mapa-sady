@@ -22,6 +22,8 @@ var linksData = d3.csv.parse(linksCsv, utils.parseLinks);
 
 var interactive_mode = (document.location.search == '?interactive');
 
+window.googleAnalyticsID = config.googleAnalyticsID;
+
 utils.joinLinksFigures(linksData, figuresData);
 
 if(interactive_mode) {
