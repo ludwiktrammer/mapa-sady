@@ -4,18 +4,22 @@ Maria Rzążewska,Włodzimierz Ryms,"uchwała NSA, sygn. akt OPS 3/03; uchwała 
 Maria Rzążewska,Eugeniusz Mzyk,"Konferencja z dnia 17 stycznia 1997 r.; uchwała NSA, sygn. akt OPS 3/03",,"http://orzeczenia.nsa.gov.pl/doc/77E195379E, link po protokołu z konferencji"
 Maria Rzążewska,Leszek Jerzy Kamiński,Konferencja z dnia 17 stycznia 1997 r.,,link po protokołu z konferencji
 Edward Janeczko,Włodzimierz Ryms,"uchwała NSA, sygn. akt OPS 3/03","- przepisy Uchwały nr 11 z dnia 27.01.1965 r., nie mają żadnego znaczenia",http://orzeczenia.nsa.gov.pl/doc/77E195379E
-Edward Janeczko,Eugeniusz Mzyk,"Konferencja z dnia 17 stycznia 1997 r.; uchwała NSA, sygn. akt OPS 3/03",,"http://orzeczenia.nsa.gov.pl/doc/77E195379E, link po protokołu z konferencji"
+Edward Janeczko,Eugeniusz Mzyk,"Konferencja z dnia 17 stycznia 1997 r.; uchwała NSA, sygn. akt OPS 3/03",,"http://orzeczenia.nsa.gov.pl/doc/77E195379E
+link po protokołu z konferencji"
 Edward Janeczko,Leszek Jerzy Kamiński,Konferencja z dnia 17 stycznia 1997 r.,,link po protokołu z konferencji
 Włodzimierz Ryms,Eugeniusz Mzyk,"uchwała NSA, sygn. akt OPS 3/03",,http://orzeczenia.nsa.gov.pl/doc/77E195379E
 Daniela Kozłowska,Eugeniusz Mzyk,"Grunty warszawskie: w świetle orzecznictwa Trybunału Konstytucyjnego, Sądu Najwyższego i Naczelnego Sądu Administracyjnego",,
 Daniela Kozłowska,Irena Kamińska,"wyrok WSA w Warszawie, sygn. akt I SA/Wa 1146/05; wyrok NSA, sygn. akt I OSK 1110/06 ",,
 Daniela Kozłowska,prof. dr hab. Maciej Kaliński,"glosa do wyroku WSA w Warszawie, sygn. akt I SA/Wa 1146/05",,
-Daniela Kozłowska,Mirosław Gdesz,"wyrok WSA w Warszawie, sygn. akt I SA/Wa 1146/05",Teza (fałszywa): przeslanka posiadania gruntu odnosi się tylko do „następców prawnych” właściciela,"http://orzeczenia.nsa.gov.pl/doc/3DF0B7F180, http://orzeczenia.nsa.gov.pl/doc/BF7096FA0B"
+Daniela Kozłowska,Mirosław Gdesz,"wyrok WSA w Warszawie, sygn. akt I SA/Wa 1146/05",Teza (fałszywa): przeslanka posiadania gruntu odnosi się tylko do „następców prawnych” właściciela,"http://orzeczenia.nsa.gov.pl/doc/3DF0B7F180
+http://orzeczenia.nsa.gov.pl/doc/BF7096FA0B"
 Eugeniusz Mzyk,Leszek Jerzy Kamiński,Konferencja z dnia 17 stycznia 1997 r.,,link po protokołu z konferencji
 Leszek Jerzy Kamiński,Irena Kamińska,małżeństwo,,
-Irena Kamińska,Mirosław Gdesz,"wyrok WSA w Warszawie, sygn. akt I SA/Wa 1146/05; wyrok NSA, sygn. akt I OSK 1110/06",,"http://orzeczenia.nsa.gov.pl/doc/3DF0B7F180, http://orzeczenia.nsa.gov.pl/doc/BF7096FA0B"
+Irena Kamińska,Mirosław Gdesz,"wyrok WSA w Warszawie, sygn. akt I SA/Wa 1146/05; wyrok NSA, sygn. akt I OSK 1110/06",,"http://orzeczenia.nsa.gov.pl/doc/3DF0B7F180
+http://orzeczenia.nsa.gov.pl/doc/BF7096FA0B"
 prof. dr hab. Maciej Kaliński,Mirosław Gdesz,"glosa do wyroku WSA w Warszawie, sygn. akt I SA/Wa 1146/05",,
-Paweł Piskorski,Andrzej M.,"Flory 3, decyzja z dnia 21 lutego 2000 r. nr GN/NW/7261/30/94/AC","Decyzja wydana w oparciu o prywatny pogląd wyrażony na nieformalnym spotkaniu przez proreprywatyzacyjne lobby. Organ całkowicie ignoruje obowiązującą wówczas linię orzeczniczą NSA (por. I SA 1036/99, I SA 179/01)","http://orzeczenia.nsa.gov.pl/doc/1A193B6F02, http://orzeczenia.nsa.gov.pl/doc/FDBC8299B3"
+Paweł Piskorski,Andrzej M.,"Flory 3, decyzja z dnia 21 lutego 2000 r. nr GN/NW/7261/30/94/AC","Decyzja wydana w oparciu o prywatny pogląd wyrażony na nieformalnym spotkaniu przez proreprywatyzacyjne lobby. Organ całkowicie ignoruje obowiązującą wówczas linię orzeczniczą NSA (por. I SA 1036/99, I SA 179/01)","http://orzeczenia.nsa.gov.pl/doc/1A193B6F02
+http://orzeczenia.nsa.gov.pl/doc/FDBC8299B3"
 Paweł Piskorski,Leszek Jerzy Kamiński,"Flory 3, decyzja z dnia 21 lutego 2000 r. nr GN/NW/7261/30/94/AC",,
 Grzegorz M.,prof. dr hab. Maciej Kaliński,Opinia prawna z 2011 roku w sprawie relacji między układami indemnizacyjnymi a dekretem Bieruta,,https://chmielna70warszawa.files.wordpress.com/2016/08/opinia-prawna-kalinski-22-06-2011.pdf
 Paweł Piskorski,Eugeniusz Mzyk,"Flory 3, decyzja z dnia 21 lutego 2000 r. nr GN/NW/7261/30/94/AC",,
@@ -41,8 +45,10 @@ Jerzy Sulimierski,Roman Hauser,"uchwała NSA, sygn. akt OPS 3/03",,http://orzecz
 Jerzy Sulimierski,Irena Kamińska,pojęcie „nieskutecznego objęcia gruntu w posiadanie”,,
 Roman Hauser,Edward Janeczko,"uchwała NSA, sygn. akt OPS 3/03",,http://orzeczenia.nsa.gov.pl/doc/77E195379E
 Roman Hauser,Eugeniusz Mzyk,"uchwała NSA, sygn. akt OPS 3/03",,http://orzeczenia.nsa.gov.pl/doc/77E195379E
-Roman Hauser,Włodzimierz Ryms,"uchwała NSA, sygn. akt OPS 3/03, uchwała NSA sygn. akt I OPS 5/08",,"http://orzeczenia.nsa.gov.pl/doc/77E195379E, http://orzeczenia.nsa.gov.pl/doc/3CC2C392DE"
-Roman Hauser,Maria Rzążewska,"uchwała NSA, sygn. akt OPS 3/03, uchwała NSA sygn. akt I OPS 5/08",,"http://orzeczenia.nsa.gov.pl/doc/77E195379E, http://orzeczenia.nsa.gov.pl/doc/3CC2C392DE"
+Roman Hauser,Włodzimierz Ryms,"uchwała NSA, sygn. akt OPS 3/03, uchwała NSA sygn. akt I OPS 5/08",,"http://orzeczenia.nsa.gov.pl/doc/77E195379E
+http://orzeczenia.nsa.gov.pl/doc/3CC2C392DE"
+Roman Hauser,Maria Rzążewska,"uchwała NSA, sygn. akt OPS 3/03, uchwała NSA sygn. akt I OPS 5/08",,"http://orzeczenia.nsa.gov.pl/doc/77E195379E
+http://orzeczenia.nsa.gov.pl/doc/3CC2C392DE"
 Jan Stachura,Jakub R.,,"Konopnickiej 3. Decyzja Prezydenta m. st. Warszawy nr 365/GK/DW/2011 oparta na wyroku NSA, sygn. akt I SA 546/03 dowodzącym rzekomego „nieskutecznego objęcia gruntu w posiadanie”",
 Jakub R.,Marian Robełek,,"Mokotowska 40. Decyzja Prezydenta m. st. Warszawy nr **/GK/DW/20**, oparta na pojęciu „nieskutecznego objęcia gruntu w posiadanie”",
 Jakub R.,Mirosław Bieniek,,"Mokotowska 40. Decyzja Prezydenta m. st. Warszawy nr **/GK/DW/20**, oparta na pojęciu „nieskutecznego objęcia gruntu w posiadanie”",
@@ -68,3 +74,5 @@ Adam Starczewski,Marzena K.,Bracka 23,"Adam Starczewski reprezentował Marzenę 
 Adam Starczewski,Hanna Gronkiewicz-Waltz,,Adam Starczewski pełnił obowiązki zastępcy dyrektora Biura Prawnego Urzędu m. st. Warszawy za czasów prezydentury Hanny Gronkiewicz-Waltz,
 Robert N.,Marzena K.,,rodzeństwo,
 Jan Stachura,Piotr Wocial,,Wocial kupił od Stachury kamienicę na Asfaltowej 2. Ceny transakcyjne były kilka razy niższe niż te rynkowe. 90-metrowe mieszkanie na Górnym Mokotowie Stachura sprzedał za jedyne 310 tysięcy złotych.,
+Grzegorz M.,Robert N.,Chmiela 70,"Grzegorz M. i Robert N. byli wspólnie beneficjentami zwrotu nieruchomości przy placu Defilad. Zwrot tej nieruchomości odbuł się z rażącym naruszeniem prawa, gdyż za ten adres wypłacone zostało odszkodownie na mocy tzw. umowy indemnizacyjnej zawartej po wojnie pomiędzy Polską a Danią",
+Magdalena Walter-Król,Marcin Karczewski,Europejska Wyższa Szkoła Prawa i Administacji w Warszawie,"Oboje są absolwentami uczelnii, na której jednym z kluczowych wykładowców wydziału prawa, był sędzia Eugeniusz Mzyk",
